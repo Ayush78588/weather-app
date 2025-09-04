@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { getWeather } from "./api";
-import WeatherCard from "./components/WeatherCard";
+import WeatherCard from "./Components/WeatherCard";
 import "./App.css"; // import CSS
 
 function App() {
